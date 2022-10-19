@@ -9,3 +9,4 @@ Changelog
 5.  Hotfix this must go out!
 6.  Remote deleted but i'm still committing.
 7.  I'm going to be stashed.
+8.  Incoming change that doesn't require a stash.
