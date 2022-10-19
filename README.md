@@ -7,3 +7,4 @@ Changelog
 3.  Here's a remote change.
 4.  This change is part of a pull request
 5.  Hotfix this must go out!
+6.  Remote deleted but i'm still committing.
